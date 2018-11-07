@@ -14,4 +14,8 @@ John has made some simulations of particle formation using his box model.
 It reporduces the growth in size distribution observed and suggests coagulation ...
 
 #Methodology 
-Type something about the methodology
+Type something about the methodology.
+
+A
+B
+C 13:19
