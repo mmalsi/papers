@@ -16,6 +16,9 @@ It reporduces the growth in size distribution observed and suggests coagulation 
 #Methodology 
 Type something about the methodology.
 
+We used an AMS (Allen Et al 200)
 A
 B
 C 13:19
+
+We also used an optical particle counter to measure size distributions.
