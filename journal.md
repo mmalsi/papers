@@ -4,6 +4,9 @@ A model - measurement comparison of biomass burning aerosol over W. Africa
 # Author
 Maydul 
 John Smith
+A
+B
+C
 
 #Introduction
 Haywood et al (1999) made some great measurementsof BBOA over the Sahara.
