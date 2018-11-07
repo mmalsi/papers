@@ -3,6 +3,7 @@ Biomass burning aerosol over W. Africa
 
 # Author
 Maydul 
+John Smith
 
 #Introduction
 Haywood et al made some great measurementsof BBOA over the Sahara.
