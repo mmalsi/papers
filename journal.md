@@ -20,5 +20,12 @@ A
 B
 C 13:19
 
+
+#Results
+We observed particle growth though coagulation and report the changing chemical composition with age in the atmosphere.
+
+
 #Conclusions
 We made some ground breaking discorvery. Theres more to do, now give us some more funding.
+
+
