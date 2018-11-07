@@ -4,8 +4,8 @@ A model - measurement comparison of biomass burning aerosol over W. Africa
 # Author
 Maydul 
 John Smith
-A
-B
+A UoM
+B UMM
 C
 
 #Introduction
