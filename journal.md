@@ -12,3 +12,6 @@ We add to these measurements, with chemical composition data, using an aerosol m
 #Simulations
 John has made some simulations of particle formation using his box model.
 It reporduces the growth in size distribution observed and suggests coagulation ...
+
+#Methodology 
+Type something about the methodology
